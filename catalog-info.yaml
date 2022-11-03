@@ -11,6 +11,7 @@ metadata:
     - tanzu
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=wael-java-web-app'
+    github.com/project-slug: rabadiw/wael-tap-test1
 spec:
   type: service
   lifecycle: experimental
